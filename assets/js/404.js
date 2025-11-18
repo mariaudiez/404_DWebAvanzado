@@ -13,3 +13,4 @@ modal.addEventListener("click", function (event) {
     modal.classList.add("hidden");
   }
 });
+
