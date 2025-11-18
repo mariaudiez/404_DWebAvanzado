@@ -9,7 +9,6 @@
   margin: 0;
   padding: 0;
   font-family: "Helvetica Neue", sans-serif;
-  background-image: url("https://ik.imagekit.io/mariaudiez/pexels-pixabay-41951.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -21,6 +20,11 @@
   text-align: center;
 }
 
+video {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+} 
 .contenido {
   background: rgba(0, 0, 0, 0.5);
   padding: 40px;
