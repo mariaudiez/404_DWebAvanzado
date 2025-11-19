@@ -2,7 +2,7 @@
   --white: #f7f8f9;
   --second_color: grey;
   --modal-background-color: rgba(208, 208, 208, 0.357);
-  --modal-container-color: #cc5109ee;
+  --modal-container-color: #8f3705;
 }
 
 .error {
@@ -43,7 +43,7 @@ video {
   border-radius: 10px;
 } 
 .contenido {
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 2, 112, 0.5);
   padding: 40px;
   border-radius: 16px;
 }
@@ -103,7 +103,7 @@ p {
   color: white;
   border-radius: 6px;
 
-  background-color: rgb(180, 33, 57);
+  background-color: rgb(92, 2, 17);
 }
 
 .hidden {
